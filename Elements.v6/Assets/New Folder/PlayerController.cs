@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 using System.Collections;
-using UnityEngine.UI; // 用于血量显示的 UI 控件
+using UnityEngine.UI; 
 
 public class PlayerController : MonoBehaviour
 {
@@ -124,7 +124,7 @@ public class PlayerController : MonoBehaviour
             healthSlider.value = currentHealth; 
         }
 
-        Debug.Log($"Player HP -{damage}, 当前HP: {currentHealth}");
+        Debug.Log($"Player HP -{damage}, 褰撳墠HP: {currentHealth}");
 
         if (currentHealth <= 0)
         {
@@ -139,7 +139,6 @@ public class PlayerController : MonoBehaviour
 
         while (elapsed < invincibleDuration)
         {
-            // 切换透明度
             Color newColor = originalColor;
             newColor.a = Mathf.Approximately(newColor.a, 1f) ? 0.5f : 1f; 
             playerMaterial.color = newColor;
