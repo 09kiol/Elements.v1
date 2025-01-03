@@ -1,0 +1,442 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.24f1 (334eb2a0b267) revision 3362482'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16064 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\unity\Unity 2022.3.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker8
+-projectPath
+D:/unity浣滀笟/My project (11)
+-logFile
+Logs/AssetImportWorker8.log
+-srvPort
+53711
+Successfully changed project path to: D:/unity浣滀笟/My project (11)
+D:/unity浣滀笟/My project (11)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [33108] Host "[IP] 192.168.0.165 [Port] 0 [Flags] 2 [Guid] 2000858215 [EditorId] 2000858215 [Version] 1048832 [Id] WindowsEditor(7,Shika) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [33108] Host "[IP] 192.168.0.165 [Port] 0 [Flags] 2 [Guid] 2000858215 [EditorId] 2000858215 [Version] 1048832 [Id] WindowsEditor(7,Shika) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 31 workers.
+Refreshing native plugins compatible for Editor in 12.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.24f1 (334eb2a0b267)
+[Subsystems] Discovering subsystems at path D:/unity/Unity 2022.3.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unity浣滀笟/My project (11)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'D:/unity/Unity 2022.3.24f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/Unity 2022.3.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/unity/Unity 2022.3.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56148
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity/Unity 2022.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002825 seconds.
+- Loaded All Assemblies, in  0.344 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.200 seconds
+Domain Reload Profiling: 544ms
+	BeginReloadAssembly (179ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (98ms)
+		LoadAssemblies (179ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (96ms)
+			TypeCache.Refresh (95ms)
+				TypeCache.ScanAssembly (84ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (201ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (158ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (113ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.628 seconds
+Refreshing native plugins compatible for Editor in 2.47 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.451 seconds
+Domain Reload Profiling: 1079ms
+	BeginReloadAssembly (198ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (368ms)
+		LoadAssemblies (369ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (151ms)
+			TypeCache.Refresh (132ms)
+				TypeCache.ScanAssembly (121ms)
+			ScanForSourceGeneratedMonoScriptInfo (14ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (451ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (345ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (276ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 4.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4090 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 57 unused Assets / (170.3 KB). Loaded Objects now: 4556.
+Memory consumption went from 157.0 MB to 156.9 MB.
+Total: 2.740500 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.088700 ms MarkObjects: 2.278800 ms  DeleteObjects: 0.129800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1166047.031457 seconds.
+  path: Assets/Player anime/DamageReceive.fbx
+  artifactKey: Guid(71ea1cc94fabfc94eb998e643997737e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/DamageReceive.fbx using Guid(71ea1cc94fabfc94eb998e643997737e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce6b6cc9aea875937f9125ee3f37cfd') in 0.125357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 189
+========================================================================
+Received Import Request.
+  Time since last request: 83.137984 seconds.
+  path: Assets/Player anime/Stop.fbx
+  artifactKey: Guid(49333d569c2b0fa42acbdc9e7d37246a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Stop.fbx using Guid(49333d569c2b0fa42acbdc9e7d37246a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70598c5bafd08874106e3bdb6d23d16d') in 0.157731 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 189
+========================================================================
+Received Import Request.
+  Time since last request: 133.991299 seconds.
+  path: Assets/Player anime/Stop.fbx
+  artifactKey: Guid(49333d569c2b0fa42acbdc9e7d37246a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Stop.fbx using Guid(49333d569c2b0fa42acbdc9e7d37246a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70d132382c70b380502a08a86ceb045') in 0.032338 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 189
+========================================================================
+Received Import Request.
+  Time since last request: 18.174191 seconds.
+  path: Assets/Player anime/Stop.fbm
+  artifactKey: Guid(31023a28a32e13c41b35665975566301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Stop.fbm using Guid(31023a28a32e13c41b35665975566301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31bb6a451188fd351ed9c332cc449e8') in 0.000929 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.427822 seconds.
+  path: Assets/Player anime/Materials
+  artifactKey: Guid(b290c41587f416f4392dc5ec7a7e7739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials using Guid(b290c41587f416f4392dc5ec7a7e7739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59fc082622ae93869470ec95f862be0') in 0.000391 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.303260 seconds.
+  path: Assets/Player anime/Materials/EL_ken_EL_ken1_standardSurface2.mat
+  artifactKey: Guid(7bd9ed0aaf49a204da92231f22e776f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/EL_ken_EL_ken1_standardSurface2.mat using Guid(7bd9ed0aaf49a204da92231f22e776f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11adb4efec537e5f96716250851ab70') in 0.018784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.083339 seconds.
+  path: Assets/Player anime/Materials/EL_ken_pasted__pasted__pasted__houseki_red.mat
+  artifactKey: Guid(43bfc064516991245abac911a982b34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/EL_ken_pasted__pasted__pasted__houseki_red.mat using Guid(43bfc064516991245abac911a982b34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88f8fb6264d4ff45710ef360b9b9ecb') in 0.005373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.080955 seconds.
+  path: Assets/Player anime/Materials/standardSurface15.mat
+  artifactKey: Guid(206a8e727ec13384d820cf587633251d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/standardSurface15.mat using Guid(206a8e727ec13384d820cf587633251d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27944e10f406ac03a4c09b7dc62b26b') in 0.005581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.073414 seconds.
+  path: Assets/Player anime/Materials/standardSurface22.mat
+  artifactKey: Guid(d572203769026ce4e97e1a32851932a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/standardSurface22.mat using Guid(d572203769026ce4e97e1a32851932a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1695477c66b76ced4eeee92cf461446a') in 0.005265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.069736 seconds.
+  path: Assets/Player anime/Materials/standardSurface25.mat
+  artifactKey: Guid(29c622900e723134abd1cae25e97aaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/standardSurface25.mat using Guid(29c622900e723134abd1cae25e97aaa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '566427a23cae006a871d8f2be8b3116d') in 0.005660 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Player anime/Materials/standardSurface26.mat
+  artifactKey: Guid(0a8b7e00695514a4dbd97cdcb007bb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/standardSurface26.mat using Guid(0a8b7e00695514a4dbd97cdcb007bb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '475574c68c81ce365dd56efe19b5e880') in 0.006587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Player anime/Materials/standardSurface29.mat
+  artifactKey: Guid(cf747f72caa6510408aa34dd73564a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/standardSurface29.mat using Guid(cf747f72caa6510408aa34dd73564a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0466e3d84331c36d7adb667f4dfc6ec9') in 0.029194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Player anime/Materials/standardSurface19.mat
+  artifactKey: Guid(96dc8939df9c4d941a2ab0f32e527fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/standardSurface19.mat using Guid(96dc8939df9c4d941a2ab0f32e527fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4ff3c860238e683efa4531aa7748b5') in 0.004625 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Player anime/Materials/standardSurface12.mat
+  artifactKey: Guid(c086fc6e97a503e45baeef7fbe69430a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/Materials/standardSurface12.mat using Guid(c086fc6e97a503e45baeef7fbe69430a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f624d7ebf3ecce8009144c0c8b77fb') in 0.004188 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.780811 seconds.
+  path: Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface2 2.mat
+  artifactKey: Guid(1cefd519033e7bc4d9a49a7708eabb18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface2 2.mat using Guid(1cefd519033e7bc4d9a49a7708eabb18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3174197872fcaf556e539f315eb02be8') in 0.014071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.062018 seconds.
+  path: Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface5 2.mat
+  artifactKey: Guid(05c35dfb34ebd2944accdc5da75b34b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface5 2.mat using Guid(05c35dfb34ebd2944accdc5da75b34b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed55afbdefe4fecc7a89d4bfa0b1b61') in 0.005400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.067887 seconds.
+  path: Assets/Player anime/New Folder/standardSurface11 2.mat
+  artifactKey: Guid(6804989f4eccfac4e9c94abc7576c991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface11 2.mat using Guid(6804989f4eccfac4e9c94abc7576c991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84029d0795836f96a4d6e8e931c185b1') in 0.005632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Player anime/New Folder/standardSurface18 3.mat
+  artifactKey: Guid(992616fa35409074ebaa755f60c521e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface18 3.mat using Guid(992616fa35409074ebaa755f60c521e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf6bfe88802c7c8aed085053e9d8994') in 0.005467 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Player anime/New Folder/standardSurface15 2.mat
+  artifactKey: Guid(43004eb99271fb549bedf3dc14a9281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface15 2.mat using Guid(43004eb99271fb549bedf3dc14a9281c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e91bc6c206891daae09ef307370403') in 0.004884 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Player anime/New Folder/standardSurface26 3.mat
+  artifactKey: Guid(69585769b9ab4e74abcde07b9c272b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface26 3.mat using Guid(69585769b9ab4e74abcde07b9c272b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc2ebf9af5e46a7665e004086d9ea83') in 0.004864 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Player anime/New Folder/standardSurface25 3.mat
+  artifactKey: Guid(fb6743b86b5a9584b975816dcc299118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface25 3.mat using Guid(fb6743b86b5a9584b975816dcc299118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1ebf565d00c96ff3c0bb209480159f') in 0.005306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface4 2.mat
+  artifactKey: Guid(b857d7f9e64b582489b87dec8d67532f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface4 2.mat using Guid(b857d7f9e64b582489b87dec8d67532f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928c682f366f95cd30b40e71a5ef8c21') in 0.005224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Player anime/New Folder/standardSurface15 3.mat
+  artifactKey: Guid(9fdda65a090162f4b93e138763fb21a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface15 3.mat using Guid(9fdda65a090162f4b93e138763fb21a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a080b2d8b7e126689ce6430d59a2c7') in 0.007530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Player anime/New Folder/standardSurface23 2.mat
+  artifactKey: Guid(070f1e5009beb0d458966dea6654b2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface23 2.mat using Guid(070f1e5009beb0d458966dea6654b2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adee90429665e7a8308a659510d5fe6d') in 0.006242 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Player anime/New Folder/standardSurface17 3.mat
+  artifactKey: Guid(8c3f5861c7ee89541b3609b27800d003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface17 3.mat using Guid(8c3f5861c7ee89541b3609b27800d003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1a765aee5a73a66720bab381a6f78e') in 0.005871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Player anime/New Folder/standardSurface19 2.mat
+  artifactKey: Guid(a304bba83b8c060468f4ef8ba5e56641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface19 2.mat using Guid(a304bba83b8c060468f4ef8ba5e56641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1cbe7681bbcb958357f5efb2add53f') in 0.005557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Player anime/New Folder/standardSurface12 2.mat
+  artifactKey: Guid(0be3d2549db41b642952027ade01adc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface12 2.mat using Guid(0be3d2549db41b642952027ade01adc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55150e9ed5590c425b8e9626cdbb55a9') in 0.005859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Player anime/New Folder/standardSurface11 3.mat
+  artifactKey: Guid(d6d1a9eba1f5eff438d069eb6e404931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface11 3.mat using Guid(d6d1a9eba1f5eff438d069eb6e404931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109ac5b2c80ad52f6e8e6e2c60b3ae58') in 0.005518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Player anime/New Folder/EL_ken_pasted__pasted__pasted__houseki_red 2.mat
+  artifactKey: Guid(07fc7c631ee81c143b072658310e4b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/EL_ken_pasted__pasted__pasted__houseki_red 2.mat using Guid(07fc7c631ee81c143b072658310e4b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01ee4d78b4fdfc82a86de6caf5f6998c') in 0.005564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Player anime/New Folder/standardSurface24 2.mat
+  artifactKey: Guid(ce6eb6d6c3ca77b49b28bcedbacdf798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/standardSurface24 2.mat using Guid(ce6eb6d6c3ca77b49b28bcedbacdf798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c271d3a91aba1d8d7a787cb5960a3800') in 0.006210 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface3 3.mat
+  artifactKey: Guid(1e1b937743972e746b25e4acf24f0600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface3 3.mat using Guid(1e1b937743972e746b25e4acf24f0600) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f29b6c39f55046ed091e57abe438c84') in 0.005388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface3 2.mat
+  artifactKey: Guid(8961b2e5085cab542a12ae9e49798790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player anime/New Folder/EL_ken_EL_ken1_standardSurface3 2.mat using Guid(8961b2e5085cab542a12ae9e49798790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b48e1094ebd617b2c244f6e058fcbf1') in 0.006933 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: 由于线程退出或应用程序请求，已中止 I/O 操作。
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
