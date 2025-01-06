@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\u4F5C\u4E1A\\My project (11)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|d:\\unity\u4F5C\u4E1A\\my project (11)\\assets\\new folder\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\videoscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\videoscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\areachecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\areachecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\scriptmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\scriptmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\enkenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\enkenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\att.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\att.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\uitimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\uitimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\senemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\senemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\playerelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\playerelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\att2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\att2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\goodend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\goodend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\summarydisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\summarydisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\followinfront.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\followinfront.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\enemyelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\enemyelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\enemy script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\enemy script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\exitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\rangedenemyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\rangedenemyscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\flplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\flplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\New Folder\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\new folder\\bosselement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B37655-761F-1942-9632-5351E34B0C78}|Assembly-CSharp.csproj|solutionrelative:assets\\new folder\\bosselement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\UiTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UiTimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Enemy\\EnemyT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Enemy\\EnemyT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\enemy\\enemyshotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\enemy\\enemyshotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\assets\\enemy script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\enemy script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\SEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\SceneTransitionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SceneTransitionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\FLPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FLPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoSceneManager.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\VideoSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\VideoSceneManager.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\VideoSceneManager.cs",
+              "RelativeToolTip": "Assets\\New Folder\\VideoSceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T22:25:42.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\PlayerController.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\New Folder\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:36:59.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SEnemy.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\SEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\SEnemy.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\SEnemy.cs",
+              "RelativeToolTip": "Assets\\New Folder\\SEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:28:10.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AreaCheckeR.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\AreaCheckeR.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\AreaCheckeR.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\AreaCheckeR.cs",
+              "RelativeToolTip": "Assets\\New Folder\\AreaCheckeR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:03:29.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\CameraController.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\CameraController.cs",
+              "RelativeToolTip": "Assets\\New Folder\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:12:07.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScriptManager.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\ScriptManager.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\ScriptManager.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\ScriptManager.cs",
+              "RelativeToolTip": "Assets\\New Folder\\ScriptManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:43:10.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timemanager.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Timemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\Timemanager.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Timemanager.cs",
+              "RelativeToolTip": "Assets\\New Folder\\Timemanager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:11:20.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Att.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Att.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\Att.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Att.cs",
+              "RelativeToolTip": "Assets\\New Folder\\Att.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwFgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:15:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "enkEnemy.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\enkEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\enkEnemy.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\enkEnemy.cs",
+              "RelativeToolTip": "Assets\\New Folder\\enkEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:19:37.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UiTimer.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\UiTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\UiTimer.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\UiTimer.cs",
+              "RelativeToolTip": "Assets\\New Folder\\UiTimer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:24:18.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerElement.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\PlayerElement.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\PlayerElement.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\PlayerElement.cs",
+              "RelativeToolTip": "Assets\\New Folder\\PlayerElement.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:13:05.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Att2.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Att2.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\Att2.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Att2.cs",
+              "RelativeToolTip": "Assets\\New Folder\\Att2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:06:25.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GoodEND.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\GoodEND.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\GoodEND.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\GoodEND.cs",
+              "RelativeToolTip": "Assets\\New Folder\\GoodEND.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:09:02.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SummaryDisplay.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\SummaryDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\SummaryDisplay.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\SummaryDisplay.cs",
+              "RelativeToolTip": "Assets\\New Folder\\SummaryDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:20:18.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Enemy Script.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Enemy Script.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\Enemy Script.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Enemy Script.cs",
+              "RelativeToolTip": "Assets\\New Folder\\Enemy Script.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:30:12.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyElement.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\EnemyElement.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\EnemyElement.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\EnemyElement.cs",
+              "RelativeToolTip": "Assets\\New Folder\\EnemyElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:06:23.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FollowInFront.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\FollowInFront.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\FollowInFront.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\FollowInFront.cs",
+              "RelativeToolTip": "Assets\\New Folder\\FollowInFront.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:50:46.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Scenes.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Scenes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Scenes.cs",
+              "RelativeToolTip": "Assets\\Scenes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:10:05.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExitGame.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\ExitGame.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\ExitGame.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\ExitGame.cs",
+              "RelativeToolTip": "Assets\\New Folder\\ExitGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:22:24.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RangedEnemyScript.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\RangedEnemyScript.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\RangedEnemyScript.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\RangedEnemyScript.cs",
+              "RelativeToolTip": "Assets\\New Folder\\RangedEnemyScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:44:41.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FlPlayer.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\FlPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\FlPlayer.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\FlPlayer.cs",
+              "RelativeToolTip": "Assets\\New Folder\\FlPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:22:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DelegateHelpers.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\DelegateHelpers.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwDMAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:52:02.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BulletScript.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\BulletScript.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\BulletScript.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\BulletScript.cs",
+              "RelativeToolTip": "Assets\\New Folder\\BulletScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:56:39.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\Bullet.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\Bullet.cs",
+              "RelativeToolTip": "Assets\\New Folder\\Bullet.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:24:56.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UiTimer.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\UiTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\UiTimer.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\UiTimer.cs",
+              "RelativeToolTip": "Assets\\UiTimer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:17:48.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SEnemy.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\SEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\SEnemy.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\SEnemy.cs",
+              "RelativeToolTip": "Assets\\SEnemy.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAA8wAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:39:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnemyShotScript.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Enemy\\EnemyShotScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyShotScript.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Enemy\\EnemyShotScript.cs",
+              "RelativeToolTip": "Assets\\Enemy\\EnemyShotScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:40:48.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnemyT.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Enemy\\EnemyT.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyT.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Enemy\\EnemyT.cs",
+              "RelativeToolTip": "Assets\\Enemy\\EnemyT.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:38:48.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Enemy Script.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Enemy Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy Script.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\Enemy Script.cs",
+              "RelativeToolTip": "Assets\\Enemy Script.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:56:58.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:03:05.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SceneTransitionManager.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\SceneTransitionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneTransitionManager.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\SceneTransitionManager.cs",
+              "RelativeToolTip": "Assets\\SceneTransitionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:34:59.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FLPlayer.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\FLPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\FLPlayer.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\FLPlayer.cs",
+              "RelativeToolTip": "Assets\\FLPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:40:28.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseInput.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\BaseInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:28:05.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraController.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\CameraController.cs",
+              "RelativeToolTip": "Assets\\CameraController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:55:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BossElement.cs",
+              "DocumentMoniker": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\BossElement.cs",
+              "RelativeDocumentMoniker": "Assets\\New Folder\\BossElement.cs",
+              "ToolTip": "D:\\unity\u4F5C\u4E1A\\My project (11)\\Assets\\New Folder\\BossElement.cs",
+              "RelativeToolTip": "Assets\\New Folder\\BossElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:38:37.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
